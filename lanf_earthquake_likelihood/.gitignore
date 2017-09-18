@@ -1,0 +1,10 @@
+# Compiled Source
+#################
+*.pyc
+
+*.swp
+
+
+manuscript/*.pdf
+manuscript/*.aux
+manuscript/*.log
